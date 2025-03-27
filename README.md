@@ -1,6 +1,7 @@
 # Website
-## What's been implemented
- - Cool icons
- - Sign-in feature
- - Comment feature
- - Q&A feature
+自分の作品を紹介するサイト
+## 新しい機能
+ - かっこいいアイコン
+ - ログイン機能
+ - コメント機能
+ - Q&A機能
